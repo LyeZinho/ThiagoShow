@@ -10,4 +10,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ThiagoShow&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoShow)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com//ThiagoShow/blob/output/github-contribution-grid-snake.svg)
