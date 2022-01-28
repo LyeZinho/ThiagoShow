@@ -74,3 +74,4 @@ most used social things </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ThiagoShow&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoShow)
+[![Thiago's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoShow&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
