@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a skater I'm also an ethical hacker
 
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ThiagoShow&theme=highcontrast&show_icons=true&count_private=true)
