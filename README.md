@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Thiago Santos 
+### Hi 👋 I'm Thiago Santos 
 
 - 🔭 I’m currently studying in a technical course in management and programming of computer systems. 
 - 🌱 I’m currently learning VB.NET, Arduino IDE and SQL.
