@@ -65,12 +65,9 @@ most used social things </p>
 <h2 align="center" ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+
 </div>
 <hr>
-</div>
-<div>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoShow)
 </div>
 </div>
 </body>
