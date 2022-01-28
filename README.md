@@ -69,4 +69,10 @@ most used social things </p>
 <hr>
 </div>
 </div>
+<div>
+  ### 𝓗𝓮𝓻𝓮 𝓲𝓼 𝓪 𝓻𝓪𝓷𝓭𝓸𝓶 𝓶𝓮𝓶𝓮 𝓯𝓸𝓻 𝔂𝓸𝓾, 𝓽𝓸 𝓶𝓪𝓴𝓮 𝔂𝓸𝓾𝓻 𝓭𝓪𝔂 𝓫𝓮𝓽𝓽𝓮𝓻
+(*𝓟𝓢: 𝓡𝓮𝓯𝓻𝓮𝓼𝓱 𝓽𝓱𝓮 𝓹𝓪𝓰𝓮 𝓽𝓸 𝓼𝓮𝓮 𝓪 𝓷𝓮𝔀 𝓶𝓮𝓶𝓮* :𝔀𝓲𝓷𝓴:)
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+</div>
 </body>
